@@ -1,0 +1,13 @@
+[ {
+  "id" : 1,
+  "name" : "Admin",
+  "email" : "admin@freshbasket.com",
+  "password" : "admin123",
+  "role" : "ADMIN"
+}, {
+  "id" : 2,
+  "name" : "BABBURI PRAVEEN",
+  "email" : "24eg505v08@anurag.edu.in",
+  "password" : "123",
+  "role" : "USER"
+} ]

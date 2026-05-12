@@ -1,0 +1,41 @@
+[ {
+  "id" : 1,
+  "name" : "Tomato",
+  "description" : "Vegetables",
+  "category" : "Fresh red tomatoes",
+  "price" : 40.0,
+  "oldPrice" : 60.0,
+  "imageUrl" : "1 kg",
+  "quantity" : 50,
+  "unit" : ""
+}, {
+  "id" : 2,
+  "name" : "Potato",
+  "description" : "Vegetables",
+  "category" : "Fresh potatoes",
+  "price" : 30.0,
+  "oldPrice" : 50.0,
+  "imageUrl" : "1 kg",
+  "quantity" : 60,
+  "unit" : ""
+}, {
+  "id" : 3,
+  "name" : "Onion",
+  "description" : "Vegetables",
+  "category" : "Fresh onions",
+  "price" : 45.0,
+  "oldPrice" : 70.0,
+  "imageUrl" : "1 kg",
+  "quantity" : 70,
+  "unit" : ""
+}, {
+  "id" : 4,
+  "name" : "Spinach",
+  "description" : "Leafy",
+  "category" : "Fresh spinach bunch",
+  "price" : 25.0,
+  "oldPrice" : 40.0,
+  "imageUrl" : "1 bunch",
+  "quantity" : 40,
+  "unit" : ""
+} ]
